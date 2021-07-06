@@ -34,7 +34,8 @@ how:
 
 
  Low level Requirements:
- --LR01- user is expected to enter his -> implemented
+ --LR01- user is expected to enter his name -> implemented
  --LR02- user is allowed to choose what type of item he need to add/purchase -> implemented
  --LR03- display of total cost of purchased items by user -> implemented
  --LR04- user is allowed to view cart -> implemented
+ --LR05 -user reviewing the item ->future
