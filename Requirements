@@ -1,0 +1,40 @@
+1]  system setup
+1.1 Software Requirements
+     Visual Studio Code
+     mingw
+     Windows 10
+     
+1.2 Software Requirements
+     RAM
+     Processor
+     Hard drive
+     
+2]  4W's and 1'H
+Who:
+--This application is used by most of the Teenagers and Middleagers.
+
+what:
+--The main aim of this project is on the Online Shopping Application.Using this web-based Shopping application,one can shop from home, office, organization.  
+
+when:
+--when you want to compare prices with different brands or websites and when you want to save your time. 
+
+where:
+--you can shop on particular websites or on online shopping apps
+--Examples filpkart,amazon,myntra etc
+
+how:
+--Online shopping is a form of electronic commerce which allows consumers to directly buy goods or services from a seller over the Internet using a web browser.
+
+
+3]  Detail requirements
+ High Level Requirements:
+ --HR01- user is able to view the cart items -> implemented
+ --HR02- user bill paying mode -> future
+
+
+ Low level Requirements:
+ --LR01- user is expected to enter his -> implemented
+ --LR02- user is allowed to choose what type of item he need to add/purchase -> implemented
+ --LR03- display of total cost of purchased items by user -> implemented
+ --LR04- user is allowed to view cart -> implemented
