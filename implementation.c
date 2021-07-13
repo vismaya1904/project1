@@ -50,7 +50,7 @@ main()
     {
      case 1:
      {
-      int num;
+      int num=1;
       printf("You chose Sandisk 16GB with Rs.355.Are you sure to buy.If 'Yes' Enter 1 else any number\n");
       scanf("%d",&num);
       if(num==1)
