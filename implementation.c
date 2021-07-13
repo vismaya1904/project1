@@ -51,8 +51,8 @@ main()
      case 1:
      {
       int num;
-      //printf("You chose Sandisk 16GB with Rs.355.Are you sure to buy.If 'Yes' Enter 1 else any number\n");
-      //scanf("%d",&num);
+      printf("You chose Sandisk 16GB with Rs.355.Are you sure to buy.If 'Yes' Enter 1 else any number\n");
+      scanf("%d",&num);
       if(num==1)
       {
        a[0]++;
@@ -64,8 +64,8 @@ main()
      case 2:
      {
       int num;
-     // printf("You chose Logitech Mouse with Rs.500.Are you sure to buy.If 'Yes' Enter 1 else any number\n");
-     // scanf("%d",&num);
+      printf("You chose Logitech Mouse with Rs.500.Are you sure to buy.If 'Yes' Enter 1 else any number\n");
+      scanf("%d",&num);
       if(num==1)
       {
        a[1]++;
@@ -77,8 +77,8 @@ main()
      case 3:
      {
       int num;
-    //  printf("You chose Pendrive 16GB with Rs.550.Are you sure to buy.If 'Yes' Enter 1 else any number\n");
-    //  scanf("%d",&num);
+      printf("You chose Pendrive 16GB with Rs.550.Are you sure to buy.If 'Yes' Enter 1 else any number\n");
+      scanf("%d",&num);
       if(num==1)
       {
        a[2]++;
@@ -107,8 +107,8 @@ main()
      case 1:
      {
       int num;
-     // printf("You chose Adidas Shoes for Rs.3550.Are you sure to buy.If 'Yes' Enter 1 else any number\n");
-     // scanf("%d",&num);
+      printf("You chose Adidas Shoes for Rs.3550.Are you sure to buy.If 'Yes' Enter 1 else any number\n");
+      scanf("%d",&num);
       if(num==1)
       {
        a[3]++;
@@ -120,8 +120,8 @@ main()
      case 2:
      {
       int num;
-     // printf("You chose Nike Shoes for Rs.5000.Are you sure to buy.If 'Yes' Enter 1 else any number\n");
-    //  scanf("%d",&num);
+      printf("You chose Nike Shoes for Rs.5000.Are you sure to buy.If 'Yes' Enter 1 else any number\n");
+      scanf("%d",&num);
       if(num==1)
       {
        a[4]++;
@@ -133,8 +133,8 @@ main()
      case 3:
      {
       int num;
-     // printf("You chose Leecooper Shoes for Rs.2800.Are you sure to buy.If 'Yes' Enter 1 else any number\n");
-    //  scanf("%d",&num);
+       printf("You chose Leecooper Shoes for Rs.2800.Are you sure to buy.If 'Yes' Enter 1 else any number\n");
+       scanf("%d",&num);
       if(num==1)
       {
        a[5]++;
@@ -163,8 +163,8 @@ main()
      case 1:
      {
       int num;
-   //   printf("You chose to buy Mi Note 3 for Rs.11000.Are you sure to buy.If 'Yes' Enter 1 else any number\n");
-   //   scanf("%d",&num);
+      printf("You chose to buy Mi Note 3 for Rs.11000.Are you sure to buy.If 'Yes' Enter 1 else any number\n");
+      scanf("%d",&num);
       if(num==1)
       {
        a[6]++;
@@ -176,8 +176,8 @@ main()
      case 2:
      {
       int num;
-    //  printf("You chose to buy Nokia 3 for Rs.9866.Are you sure to buy.If 'Yes' Enter 1 else any number\n");
-      //scanf("%d",&num);
+      printf("You chose to buy Nokia 3 for Rs.9866.Are you sure to buy.If 'Yes' Enter 1 else any number\n");
+      scanf("%d",&num);
       if(num==1)
       {
        a[7]++;
@@ -189,8 +189,8 @@ main()
      case 3:
      {
       int num;
-     // printf("You chose to buy Samsung for Rs.12800.Are you sure to buy.If 'Yes' Enter 1 else any number\n");
-     // scanf("%d",&num);
+      printf("You chose to buy Samsung for Rs.12800.Are you sure to buy.If 'Yes' Enter 1 else any number\n");
+      scanf("%d",&num);
       if(num==1)
       {
        a[8]++;
