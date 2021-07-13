@@ -13,7 +13,6 @@
 main()
 {
  static int totalCost;
- int i,j,choice,c=1,a[9],cost[9];
  for(i=0;i<9;i++)
  a[i]=0;
 
