@@ -7,6 +7,6 @@
 
 [![Code grade](https://www.code-inspector.com/project/25105/score/svg)](https://frontend.code-inspector.com/public/project/25105/project1/dashboard
 )
-
+[![Code Quality - Static Code - Cppcheck](https://github.com/vismaya1904/project1/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vismaya1904/project1/actions/workflows/cppcheck.yml)
 
 
