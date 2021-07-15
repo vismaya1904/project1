@@ -32,7 +32,7 @@ main()
  gets(str);
  printf("Hello %s, Welcome to our Online Shopping.\n",str);
  do{
-  //C is 1 by default
+  
   if(c==1){
   printf("Enter\n1 - Computer Accessories\n2 - Shoes\n3 - Mobiles\nAny other number to exit\n");
   scanf("%d",&choice);
